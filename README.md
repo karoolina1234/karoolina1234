@@ -28,4 +28,3 @@
 </div>
 
 
-![Snake animation](https://github.com/karoolina1234)
