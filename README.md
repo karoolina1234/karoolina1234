@@ -1,7 +1,7 @@
 ### Olá 
 
  Sou desenvolvedora front-end | Mobile
- Me chamo karolina, sou formada em Análise e desenvolvimento de sistemas desde 2021, atuo profissionalmente na área desde 2019, porém estudo programação desde os 17 anos, meu foco é o frontend, estou sempre buscando aprender novas tecnlogias e me desenvolver mais na área.
+ Me chamo karolina, sou formada em Análise e desenvolvimento de sistemas desde 2021, atuo profissionalmente na área desde 2019, porém estudo programação desde os 17 anos, meu foco é o frontend, estou sempre buscando aprender novas tecnologias e me desenvolver mais na área.
 <hr/>
 
 
