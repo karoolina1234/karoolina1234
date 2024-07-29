@@ -21,6 +21,9 @@
 <br/>
 <br/>
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karoolina1234&layout=compact&theme=dark&hide=Sass,Shell)
 
 <div>
   <a href="https://www.linkedin.com/in/karolina-m-22a20b18a/">
