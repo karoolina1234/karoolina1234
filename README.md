@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karoolina1234&layout=compact&theme=dark)
 
 <div>
-  <a href="https://www.linkedin.com/in/karolina-m-22a20b18a/">
+  <a href="https://www.linkedin.com/in/karolina-mendes/">
   <img height="18em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
